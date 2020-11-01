@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>182812796729-dls0ncvekuu1gcjirrppf5mju8fhgn4n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.182812796729-dls0ncvekuu1gcjirrppf5mju8fhgn4n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>182812796729-gnfigctidegtrktdlaureq1qfn93kmha.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFVlu9GCa8-t5Rz8QKEyr4LcHou68gLbw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>182812796729</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.francescorossetti.gestioneprevendite</string>
+	<key>PROJECT_ID</key>
+	<string>gestione-prevendite</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gestione-prevendite.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:182812796729:ios:cbcdfd0718ca04a73ceae8</string>
+	<key>DATABASE_URL</key>
+	<string>https://gestione-prevendite.firebaseio.com</string>
+</dict>
+</plist>

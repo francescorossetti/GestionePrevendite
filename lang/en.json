@@ -1,0 +1,73 @@
+{
+    "app_name": "Gestione Prevendite",
+
+    "slide1": "Manage your tickets comfortably",
+    "slide2": "Look at the sales summary graphs and conveniently calculate your earnings",
+    "slide3": "Enter the requested data, then leave the rest to us. \n \n SIT BACK AND ENJOY",
+
+    "riassunto_vendite": "Sales summary of upcoming events: ",
+    "ricavi_totali": "Total revenues: ",
+    "in_costruzione": "Under construction",
+    "impostazioni": "Settings",
+    "versione": "Version",
+    "moda_scura": "Dark Mode",
+
+    "info": "Info",
+    "creato_da": "Created by: ",
+    "informativa_privacy": "Privacy Policy",
+    "termini_di_servizio": "Terms of Service",
+    
+    "aziende": "Companies",
+    "personale": "Staff",
+    "eventi": "Events",
+    "prevendite": "Tickets",
+
+    "campo_richiesto": "Required field",
+    "conferma": "CONFIRM",
+
+    "nome_azienda": "Company Name",
+    "percentuale_compenso": "Compensation Percentage",
+
+    "nome": "Name",
+    
+    "nome_evento": "Event Name",
+    "prezzo_prevendita": "Ticket Price",
+    "data_evento": "Event Date",
+    "azienda": "Company",
+    "seleziona_azienda": "Select Company",
+    "aggiungi_azienda": "Add Company",
+
+    "seleziona_numero_prevendite": "Select the number of tickets",
+    "aggiungi_evento": "Add event",
+    "evento": "Event",
+    "seleziona_evento": "Select Event",
+    "aggiungi_personale": "Add Staff",
+    "seleziona_membro_personale": "Select a Staff Member",
+    "numero_prevendite": "Tickets number",
+    "note": "Note",
+
+    "numero_prevendita": "ticket number",
+    "numero_prevendita_export": "Ticket Number",
+    "prezzo_export": "Price",
+    "venduta_da_export": "Sold by",
+
+    "costo": "Price: ",
+    "venduta_da": "Sold by: ",
+
+    "esporta_database": "Export Database",
+    "importa_database": "Import Database", 
+    
+    "esporta_aziende": "Export Companies",
+    "esporta_personale": "Export Staff",
+    "esporta_eventi": "Export Events",
+    "esporta_prevendite": "Export Tickets",
+
+    "nessuna_azienda": "No Companies yet",
+    "nessuna_azienda_desc": "Click on the + button to add one",
+    "nessun_personale": "No Staff members yet",
+    "nessun_personale_desc": "Click on the + button to add one",
+    "nessun_evento": "No Events yet",
+    "nessun_evento_desc": "Click on the + button to add one",
+    "nessuna_prevendita": "No tickets yet",
+    "nessuna_prevendita_desc": "Click on the + button to add one"
+}

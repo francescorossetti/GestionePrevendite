@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182812796729",
+    "firebase_url": "https://gestione-prevendite.firebaseio.com",
+    "project_id": "gestione-prevendite",
+    "storage_bucket": "gestione-prevendite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182812796729:android:670af3f0c0c85d603ceae8",
+        "android_client_info": {
+          "package_name": "com.francescorossetti.gestioneprevendite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182812796729-mks0emtvcm9e5g3l0i33pp15clqjh8ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz98GhBXz2xswuRY_tE3Dbm28nStiWaXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182812796729-mks0emtvcm9e5g3l0i33pp15clqjh8ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

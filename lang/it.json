@@ -1,0 +1,73 @@
+{
+    "app_name": "Gestione Prevendite",
+
+    "slide1": "Gestisci comodamente le tue prevendite",
+    "slide2": "Guarda i grafici riassuntivi delle vendite e calcola comodamente il tuo guadagno",
+    "slide3": "Inserisci i dati richesti, poi lascia fare il resto a noi. \n\n DIVERTITI",
+
+    "riassunto_vendite": "Riassunto vendite dei prossimi eventi: ",
+    "ricavi_totali": "Ricavi totali: ",
+    "in_costruzione": "In Costruzione",
+    "impostazioni": "Impostazioni",
+    "versione": "Versione",
+    "moda_scura": "Modalità Scura",
+
+    "info": "Info",
+    "creato_da": "Creato da: ",
+    "informativa_privacy": "Informativa privacy",
+    "termini_di_servizio": "Termini di Servizio",
+    
+    "aziende": "Aziende",
+    "personale": "Personale",
+    "eventi": "Eventi",
+    "prevendite": "Prevendite",
+
+    "campo_richiesto": "Campo richiesto",
+    "conferma": "CONFERMA",
+
+    "nome_azienda": "Nome Azienda",
+    "percentuale_compenso": "Percentuale Compenso",
+
+    "nome": "Nome",
+    
+    "nome_evento": "Nome Evento",
+    "prezzo_prevendita": "Prezzo Prevendita",
+    "data_evento": "Data Evento",
+    "azienda": "Azienda",
+    "seleziona_azienda": "Seleziona Azienda",
+    "aggiungi_azienda": "Aggiungi Azienda",
+
+    "seleziona_numero_prevendite": "Seleziona il numero di prevendite",
+    "aggiungi_evento": "Aggiungi Evento",
+    "evento": "Evento",
+    "seleziona_evento": "Seleziona Evento",
+    "aggiungi_personale": "Aggiungi Personale",
+    "seleziona_membro_personale": "Seleziona un Membro del Personale",
+    "numero_prevendite": "Numero Prevendite",
+    "note": "Note",
+
+    "numero_prevendita": "numero prevendita",
+    "numero_prevendita_export": "Numero Prevendita",
+    "prezzo_export": "Prezzo",
+    "venduta_da_export": "Venduta da",
+
+    "costo": "Costo: ",
+    "venduta_da": "Venduta da: ",
+
+    "esporta_database": "Esporta Database",
+    "importa_database": "Importa Database",
+    
+    "esporta_aziende": "Esporta Aziende",
+    "esporta_personale": "Esporta Personale",
+    "esporta_eventi": "Esporta Eventi",
+    "esporta_prevendite": "Esporta Prevendite",
+
+    "nessuna_azienda": "Ancora nessuna Azienda",
+    "nessuna_azienda_desc": "Clicca sul pulsante + per aggiungerne una",
+    "nessun_personale": "Ancora nessun Membro del personale",
+    "nessun_personale_desc": "Clicca sul pulsante + per aggiungerne uno",
+    "nessun_evento": "Ancora nessun Evento",
+    "nessun_evento_desc": "Clicca sul pulsante + per aggiungerne uno",
+    "nessuna_prevendita": "Ancora nessuna Prevendita",
+    "nessuna_prevendita_desc": "Clicca sul pulsante + per aggiungerne una"
+}
